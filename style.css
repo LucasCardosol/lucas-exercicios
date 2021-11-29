@@ -99,5 +99,18 @@ h2 {
   align-items: center;
   font-family: cursive;
 }
+/*CLASSES A SEREM USADAS*/
+
+.grid {
+  width: 80%;
+  margin: 0 auto;
+}
+.section1 {
+  background-color: rgb(158, 158, 243);
+  margin-bottom: 40px;
+}
+.section2 {
+  background-color: rgb(255, 187, 0);
+}
 
 /*FAÇA SEU EXERCICIO A PARTIR DAQUI*/
